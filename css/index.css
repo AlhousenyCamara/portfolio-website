@@ -38,7 +38,7 @@ nav {
   flex-direction: row;
   justify-content: flex-end;
   align-items: flex-end;
-  margin-right: 3rem;
+  margin-right: 10 rem;
 }
 .logo {
   align-self: flex-end;
