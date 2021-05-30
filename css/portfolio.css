@@ -1,0 +1,30 @@
+.container {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 97vh;
+}
+
+.box {
+  width: 300px;
+  border: 5px solid black;
+  background: white;
+  margin: 1rem;
+}
+h1 {
+  margin-left: 25rem;
+}
+.laundromat,
+.debatable,
+.deck {
+  margin: 0;
+  height: 5rem;
+  background-color: white;
+  color: black;
+  font-weight: normal;
+}
+li {
+  line-height: 2.5;
+  margin-left: 1rem;
+}
